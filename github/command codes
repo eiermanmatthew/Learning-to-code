@@ -23,7 +23,7 @@ Git Commands
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 
 ### Branching & Merging
-
+ 
 | Command | Description |
 | ------- | ----------- |
 | `git branch` | List branches (the asterisk denotes the current branch) |

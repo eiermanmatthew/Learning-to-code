@@ -11,6 +11,8 @@ MAC and the Command Line
 Bash
 Git and Github
 
+HTML, CSS, JQuery, Javascript
+
 Course Detail
 
 MAC and the Command Line
@@ -46,3 +48,8 @@ Learn Git Concepts, not commands -
 https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjcz
 Github Guide to Github -
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+
+HTML, CSS, JQuery, Javascript
+Dash by General Assembly
+Projects 1-5
+https://dash.generalassemb.ly/projects

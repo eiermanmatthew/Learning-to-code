@@ -11,3 +11,9 @@ Want to go further? Learn to make Tumblr themes from scratch!
 GO TO DASH FOR TUMBLR → https://dash.generalassemb.ly/projects/tumblr
 
 ## Skills
+h1-h6 email input submit input p placeholder
+style body head title text-align background font-family color
+img background-size background-position font-size border padding attribute selectors
+header li a ul
+link display margin border-radius padding 2
+max-width article margin: 0 auto; script on() button alert() hex color media queries rgba color

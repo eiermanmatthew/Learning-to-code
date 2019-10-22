@@ -1,0 +1,16 @@
+<!Doctype html>
+<head>
+<!-- meta-info goes here -->
+</head>
+<body>
+<header>
+<img src="/assets/jeff.png">
+<h1>Jeff's blog</h1>
+<ul>
+<li><a href="#">About Me</a></li>
+<li><a href="#">fBest Poems</a></li>
+<li><a href="#">Worst Poems</a></li>
+</ul>
+</header>
+<!-- Page Content goes here -->
+</body>

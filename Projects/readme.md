@@ -4,6 +4,6 @@ Current Files
 JavaScript
 
 ## Dash by General Assembly
-HTML, CSS, Jquery, Javascript
+HTML, CSS, Jquery, JavaScript
 
 

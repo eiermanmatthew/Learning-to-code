@@ -1,6 +1,9 @@
 Current Files
 
-## Javascript: 
-Rock Paper Scissor Lizard Spock
+## Rock Paper Scissor Lizard Spock
+JavaScript
+
+## Dash by General Assembly
+HTML, CSS, Jquery, Javascript
 
 
